@@ -3,4 +3,3 @@ Noun is the name of thing, person, place or an idea.
 
 Grammar:
 Grammar is scientific format of a language.
-ds
