@@ -1,5 +1,6 @@
 Noun:
 Noun is the name of thing, person, place or an idea.
+Ex: No phones
 
 Grammar:
 Grammar is scientific format of a language.
